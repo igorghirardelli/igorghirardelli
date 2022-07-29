@@ -41,3 +41,7 @@
 
 
 </div>
+
+<div align="center">
+    <img align="center" height="350rem" width="600rem" src="https://user-images.githubusercontent.com/110192034/181824588-0f188fff-087a-4cd6-98bf-cba7b90bceb1.gif"/>
+  </div>    
