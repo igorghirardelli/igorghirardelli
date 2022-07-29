@@ -1,3 +1,12 @@
+<div align="center">
+    <img align="center" height="350rem" width="600rem" src="https://user-images.githubusercontent.com/110192034/181822467-a8269085-802e-4a3d-bb1d-b74d8b8a8477.gif"/>
+  </div>
+
+
+
+<h1> 🎮 Sobre mim </h1>
+
+
 ### Oi, eu sou o Igor Ghirardelli 👋
 
 - 💻 Estudante de análise e desenvolvimento de sistemas 
