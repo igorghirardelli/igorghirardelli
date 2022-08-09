@@ -11,6 +11,7 @@
 
 - 💻 Estudante de análise e desenvolvimento de sistemas 
 - 🌱 Estudando Java
+- 🌱 Estudando JavasScript
 
 
 <div align="center">
