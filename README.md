@@ -23,9 +23,11 @@
 
 <div align="center">
     <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorghirardelli&layout=compact&theme=dark&hide=c&langs_count=4">
-
-       
+   
 </div>
+<img align="right" alt="Igor-pic" height="150" style="border-radius:50px;"
+  src="https://cdn.discordapp.com/attachments/853541814274752532/1002612746321412187/download20220705131817.png">
+
 
 ##
 
@@ -37,8 +39,7 @@
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
    
-  <img align="right" alt="Igor-pic" height="150" style="border-radius:50px;"
-  src="https://cdn.discordapp.com/attachments/853541814274752532/1002612746321412187/download20220705131817.png">
+  
   
 
 
