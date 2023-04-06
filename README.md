@@ -12,6 +12,8 @@
 - 💻 Estudante de análise e desenvolvimento de sistemas 
 - 🌱 Estudando Java
 - 🌱 Estudando JavasScript
+- 🌱 Estudando Spring boot
+- 🌱 Estudando MYSQL
 
 
 <div align="center">
