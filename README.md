@@ -17,7 +17,7 @@
 
 
 <div align="center">
-    <img width="420" src="https://github-readme-stats.vercel.app/api?username=igorghirardelli&show_icons=true&theme=dark&hide=issues&count_private=true">
+    <img width="420" src="https://github-readme-stats.vercel.app/api?username=igorghirardelli&show_icons=true&bg_color=00000000">
        
 </div>
 
