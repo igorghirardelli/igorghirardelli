@@ -17,14 +17,15 @@
 - 🌱 Estudando MYSQL
 
 </div >
-<img align="right" alt="Igor-pic" height="150" style="border-radius:50px;"
-  src="https://cdn.discordapp.com/attachments/853541814274752532/1002612746321412187/download20220705131817.png">
 
 
-<div align="center">
+
+<div align="left">
     <img width="420" src="https://github-readme-stats.vercel.app/api?username=igorghirardelli&show_icons=true&bg_color=00000000">
-     <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorghirardelli&layout=compact&theme=dark&hide=c&langs_count=4">  
+    <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorghirardelli&layout=compact&theme=dark&hide=c&langs_count=4">
+       
 </div>
+
 
 <br>
 
@@ -62,3 +63,7 @@
 
 </div>
 
+<div align="center">
+<img align="right" alt="Igor-pic" height="150" style="border-radius:50px;"
+  src="https://cdn.discordapp.com/attachments/853541814274752532/1002612746321412187/download20220705131817.png">
+</div>
